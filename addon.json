@@ -1,0 +1,11 @@
+{
+"title" : "Custom FOV mod",
+"type" : "tool",
+"tags" : ["movie","scenic"],
+"ignore" : 
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
