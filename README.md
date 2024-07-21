@@ -15,5 +15,6 @@ Only client side.
 | **Console Var**      | **Description**                                                                                                           |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------|
 | cfov_enable          | Enables the mod<br> - **1**: Enabled (default)<br> - **0**: Disabled                                                      |
-| cfov                 | Change the fov value<br> - **Min**: 70<br> - **Max**: 175                                                                 |
+| cfov                 | Change the fov value<br> - **Min**: 10<br> - **Max**: 175                                                                 |
 | cfov_viewmodel_fixed | Makes the viewmodel in place, as if it was in it's default value (54)<br>- **1**: Enabled<br> - **0**: Disabled (default) |
+| cfov_viewmodel_fov   | Used to base number to calculate the viewmodel fov<br> - **Min**: -30<br> - **Max**: 150                                  |
